@@ -8,8 +8,10 @@
     <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a>
 </h1>
 </p>
-<h2>👨‍💻 Projet en developpement mobile:</h2>
-
+<h2>👨‍💻 Projet en developpement:</h2>
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
 
 [![Linked](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/HeyFlutter?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
