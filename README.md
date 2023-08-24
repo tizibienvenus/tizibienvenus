@@ -9,13 +9,16 @@
 </h1>
 </p>
 <h2>👨‍💻 Projet en developpement:</h2>
-
-
 -  &ensp;<b> FREEMOPAY [**Website**][website]</b>
-    -  &ensp;Lien [**PlayStore**][playstore]!
--  &ensp;<b> ToutouStore [**Website**][]</b>
-    -  &ensp;J'y travaille encore sur le projet [][]!
--  &ensp;I’m currently learning Flutter ❤️
+    -  &ensp;Lien [**PlayStore**][playstore]
+-  &ensp;<b> ToutouStore</b>
+    -  &ensp;J'y travaille encore sur le projet
+
+<h2>Design UI/UX:</h2>
+-  &ensp;Fodali ❤️
+<p align="left">
+    <img src="/.github/images/architecture_diagram.png" alt="Image" width="600"/>
+</p>
 -  &ensp;I’m looking to collaborate with other content creators
 -  &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
 -  &ensp;Fun fact: I love reading & podcasts
