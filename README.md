@@ -85,3 +85,5 @@
 [facebook]: https://www.facebook.com/heyflutter
 [medium]: https://medium.com/@JohannesMilke
 [email]: mailto:hello@heyflutter.com
+[fodli1]: https://github.com/tizibienvenus/tizibienvenus/blob/main/fodali.png
+[fodli2]: https://github.com/tizibienvenus/tizibienvenus/blob/main/fond.png
