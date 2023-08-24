@@ -51,10 +51,6 @@
 <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoui2.png" alt="Image" width="600"/>
 </p>
--  &ensp;I’m looking to collaborate with other content creators
--  &ensp;I am one of the early adopters of Flutter, it has been more than 4 years
--  &ensp;Fun fact: I love reading & podcasts
--  &ensp;How to reach me: [**Email**][email]
 
 <!--->
 ### Connect With Me
