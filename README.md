@@ -9,22 +9,8 @@
 </h1>
 </p>
 <h2>👨‍💻 Projet en developpement:</h2>
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
-- Freemopay 
-  - [Application de Paiement mobile](https://play.google.com/store/apps/details?id=com.freemopay.freemoapp&pli=1)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-<h2>📺 Popular YouTube Videos</h2>
 
-[![Linked](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
-[![Twitter Follow](https://img.shields.io/twitter/follow/HeyFlutter?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/JohannesMilke/)][linkedin]
+
 
 - 🔭 &ensp;I’m currently working on [**Youtube**][youtube]!
 - 🌱 &ensp;I’m currently learning Flutter ❤️
