@@ -12,10 +12,19 @@
 -  &ensp;<b> FREEMOPAY [**Website**][website]</b>
     -  &ensp;Lien [**PlayStore**][playstore]
 -  &ensp;<b> ToutouStore</b>
-    -  &ensp;J'y travaille encore sur le projet
+    -  &ensp;J'y travaille encore sur le projet.
 
 <h2>Design UI/UX:</h2>
 -  &ensp;Fodali ❤️
+<p align="center">
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/fond.png" alt="Image" width="600"/>
+</p>
+
+<p align="center">
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/fodali.png" alt="Image" width="600"/>
+</p>
+
+-  &ensp;Dashboard
 <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/fond.png" alt="Image" width="600"/>
 </p>
