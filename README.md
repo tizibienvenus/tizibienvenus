@@ -11,6 +11,12 @@
 <h2>👨‍💻 Projet en developpement:</h2>
 -  &ensp;<b> FREEMOPAY [**Website**][website]</b>
     -  &ensp;Lien [**PlayStore**][playstore]
+    <p align="center">
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo.png" alt="Image" width="600"/>
+    </p>
+    <p align="center">
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" width="600"/>
+    </p>
 -  &ensp;<b> ToutouStore</b>
     -  &ensp;J'y travaille encore sur le projet.
 
