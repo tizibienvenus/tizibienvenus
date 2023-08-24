@@ -1,4 +1,10 @@
-<h1 align="start"> Hi 👋, I'm <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">TIZI BIENVENUS</a></h1>
+<h1 align="start"> Salut 👋, Je suis 
+    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">TIZI BIENVENUS</a>
+    <a href="https://github.com/joshmadakor1">Developpeur mobile et Web</a>,
+    <a href="https://www.linkedin.com/in/joshmadakor/">Designer UI/UX</a>,
+    <a href="https://www.youtube.com/c/joshmadakor">Administrateur System</a>,
+    <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a>
+</h1>
 <h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
 [![Youtube](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
