@@ -16,7 +16,7 @@
     </p>
     <p align="left">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo.png" alt="Image" width="250"/>
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" height="400"/>
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" height="400", with="250"/>
     </p>
     <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" width="600"/>
