@@ -12,10 +12,11 @@
 -  &ensp;<b> FREEMOPAY [**Website**][website]</b>
     -  &ensp;Lien [**PlayStore**][playstore]
     <p align="center">
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemocode.png" alt="Image" width="250"/>
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemocode.png" alt="Image" width="600"/>
     </p>
     <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo.png" alt="Image" width="250"/>
+    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" width="600"/>
     </p>
     <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo1.png" alt="Image" width="600"/>
