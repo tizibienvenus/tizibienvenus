@@ -87,13 +87,13 @@
 <!>
 ### 📺 &ensp;Latest YouTube Videos
 
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START 
 - [Programmers in Movies 🍿 VS Real Life 😎](https://www.youtube.com/watch?v=hiEZoYErcuk)
 - [FASTEST Way to Learn Flutter and ACTUALLY Get a Job](https://www.youtube.com/watch?v=QPSYj2617UI)
 - [The best Flutter community 🔥🥳](https://www.youtube.com/watch?v=fA25AfAZLRg)
 - [Flutter Complete E-Commerce App | Flutter UI](https://www.youtube.com/watch?v=a1K0ZYQYFaY)
 - [Stupid mistakes programmers do 🤦‍♂️👨‍💻](https://www.youtube.com/watch?v=vifTxXYN8Eg)
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:END -
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
@@ -101,9 +101,9 @@
 
 ### 📚 &ensp;Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -
 - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
-<!-- BLOG-POST-LIST:END -->
+END 
 
 ➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
 
