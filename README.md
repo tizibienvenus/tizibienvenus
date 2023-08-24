@@ -106,13 +106,9 @@ END
 -->
 
 [website]: https://www.freemopay.com/
-[twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJohannesMilke&screen_name=HeyFlutter_
 [playstore]: https://play.google.com/store/apps/details?id=com.freemopay.freemoapp&pli=1
-[linkedin]: https://www.linkedin.com/company/heyflutter/
-[github]: https://github.com/JohannesMilke
-[instagram]: https://instagram.com/heyflutter_
-[facebook]: https://www.facebook.com/heyflutter
-[medium]: https://medium.com/@JohannesMilke
-[email]: mailto:hello@heyflutter.com
+[linkedin]: https://www.linkedin.com/in/bienvenus-tizi-806637241/
+[github]: https://github.com/tizibienvenus/tizibienvenus
+[email]: mailto:tizibienvenus@gmail.com
 [fodli1]: https://github.com/tizibienvenus/tizibienvenus/blob/main/fodali.png
 [fodli2]: https://github.com/tizibienvenus/tizibienvenus/blob/main/fond.png
