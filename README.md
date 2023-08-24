@@ -8,7 +8,7 @@
     <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a>
 </h1>
 </p>
-<h2>👨‍💻 Projet en developpement:</h2>
+<h2>👨‍💻 Projet en developpement mobile:</h2>
 -  &ensp;<b> FREEMOPAY [**Website**][website]</b>
     -  &ensp;Lien [**PlayStore**][playstore]
     <p align="center">
