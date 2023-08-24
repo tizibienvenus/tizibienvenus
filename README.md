@@ -8,8 +8,10 @@
     <a href="https://www.youtube.com/c/joshmadakor">Freelancer</a>
 </h1>
 </p>
-<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
-
+<h2>👨‍💻 Projet en developpement mobile:</h2>
+- <b>Application de paiement mobile (Flutter)</b>
+  - [Praciting DS & Algos in Python](https://play.google.com/store/apps/details?id=com.freemopay.freemoapp&pli=1)
+  
 [![Linked](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/HeyFlutter?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
