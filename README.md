@@ -9,7 +9,7 @@
 </h1>
 </p>
 <h2>👨‍💻 Projet en developpement mobile:</h2>
--  &ensp;<b> FREEMOPAY [**Website**][website]</b>
+-  &ensp;<b> FREEMOPAY [Website](https://www.freemopay.com/)</b>
     -  &ensp;Lien [**PlayStore**][playstore]
     <p align="center">
     <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemocode.png" alt="Image" width="600"/>
