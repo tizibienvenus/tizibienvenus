@@ -9,8 +9,8 @@
 </h1>
 </p>
 <h2>👨‍💻 Projet en developpement mobile:</h2>
-- <b>Freemopay</b>
-  - [Application de Paiement mobile](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
 [![Linked](https://img.shields.io/static/v1?label=HeyFlutter&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/HeyFlutter?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github]
