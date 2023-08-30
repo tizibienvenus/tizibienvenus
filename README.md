@@ -1,7 +1,6 @@
-# Salut je suis [Tizi Bienvenus](https://www.linkedin.com/in/bienvenus-tizi-806637241/)
+# Salut 👋 je suis [TIZI BIENVENUS](https://www.linkedin.com/in/bienvenus-tizi-806637241/)
 
-<h1 align="start"> Salut 👋, Je suis 
-    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">TIZI BIENVENUS</a> </h1>
+## [Developpeur mobile et Web](), [Designer UI/UX](), [Administrateur System](), [reelancer]().
 <p>
 <h1>
     <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Developpeur mobile et Web</a>,
