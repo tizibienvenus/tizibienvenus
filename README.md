@@ -43,7 +43,7 @@ OALET est une application de portefeuille financier qui permet aux utilisateurs 
 ### Quelques images de l'UI/UX avec Adobe XD
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
 
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETDARK.png"
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETDARK.png">
 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
 
