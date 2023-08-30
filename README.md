@@ -2,7 +2,15 @@
 
 ## [Developpeur mobile et Web](https://github.com/tizibienvenus), [Designer UI/UX](https://github.com/tizibienvenus), [Administrateur System](https://github.com/tizibienvenus), [Freelancer](https://github.com/tizibienvenus).
 
+<!--- ## 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tizibienvenus&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tizibienvenus&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tizibienvenus&" alt="jaiswaladi246" /></p>
+
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+ --->
 # 👨‍💻 PORJETS SUR LEQUELS J'AI TRAVAILLE
 
 ## [FREEMOPAY](https://www.freemopay.com/)
