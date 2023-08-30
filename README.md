@@ -1,14 +1,7 @@
 # Salut 👋 je suis [TIZI BIENVENUS](https://www.linkedin.com/in/bienvenus-tizi-806637241/)
 
-## [Developpeur mobile et Web](), [Designer UI/UX](), [Administrateur System](), [Freelancer]().
-<p>
-<h1>
-    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Developpeur mobile et Web</a>,
-    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Designer UI/UX</a>,
-    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Administrateur System</a>,
-    <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Freelancer</a>
-</h1>
-</p>
+## [Developpeur mobile et Web](https://github.com/tizibienvenus), [Designer UI/UX](https://github.com/tizibienvenus), [Administrateur System](https://github.com/tizibienvenus), [Freelancer](https://github.com/tizibienvenus).
+
 <h2>👨‍💻 Projet en developpement mobile:</h2>
 -  &ensp;<b> FREEMOPAY [Website](https://www.freemopay.com/)</b>
     -  &ensp;Lien [**PlayStore**][playstore]
