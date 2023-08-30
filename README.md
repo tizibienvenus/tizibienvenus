@@ -1,6 +1,6 @@
 # Salut 👋 je suis [TIZI BIENVENUS](https://www.linkedin.com/in/bienvenus-tizi-806637241/)
 
-## [Developpeur mobile et Web](), [Designer UI/UX](), [Administrateur System](), [reelancer]().
+## [Developpeur mobile et Web](), [Designer UI/UX](), [Administrateur System](), [Freelancer]().
 <p>
 <h1>
     <a href="https://www.linkedin.com/in/bienvenus-tizi-806637241/">Developpeur mobile et Web</a>,
