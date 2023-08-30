@@ -21,6 +21,12 @@ FreemoPay est un moyen pratique et sécurisé d'acheter du crédit de communicat
 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
 
+### Quelques images de l'UI/UX avec Adobe XD
+
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+
 <h2>👨‍💻 Projet en developpement mobile:</h2>
 -  &ensp;<b> FREEMOPAY [Website](https://www.freemopay.com/)</b>
     -  &ensp;Lien [**PlayStore**][playstore]
