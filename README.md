@@ -40,19 +40,15 @@ FreemoPay est un moyen pratique et sécurisé d'acheter du crédit de communicat
 <img width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(8).jpg" />
 <img width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(9).jpg" />
 <img width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(10).jpg" />
-
-
 </p>
 
-<img width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(1).jpg">
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(2).jpg">
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
-
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemocode.png">
 
 ### Quelques images de l'UI/UX avec Adobe XD
 
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo%201.png">
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoui2.png">
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo%203.png">
 
 
 
