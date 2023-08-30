@@ -27,6 +27,28 @@ FreemoPay est un moyen pratique et sécurisé d'acheter du crédit de communicat
 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
 
+
+
+
+## [OALET](https://github.com/tizibienvenus)
+OALET est une application de portefeuille financier qui permet aux utilisateurs de gérer leurs finances personnelles de manière simple et sécurisée. L'application offre une variété de fonctionnalités, notamment :
+
+- La gestion des comptes bancaires et des cartes de crédit ✅
+- Le suivi des dépenses et des revenus ✅
+- La budgétisation
+
+
+### Quelques images de l'application
+
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+
+### Quelques images de l'UI/UX avec Adobe XD
+
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+
+<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/OALETLIGHT.png">
+
+
 <h2>👨‍💻 Projet en developpement mobile:</h2>
 -  &ensp;<b> FREEMOPAY [Website](https://www.freemopay.com/)</b>
     -  &ensp;Lien [**PlayStore**][playstore]
