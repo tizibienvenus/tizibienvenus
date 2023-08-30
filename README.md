@@ -29,7 +29,7 @@ FreemoPay est un moyen pratique et sécurisé d'acheter du crédit de communicat
 
 ### Quelques images de l'application
 
-<p align="left"><img  width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(1).jpg" alt="jaiswaladi246" />
+<p align="left" margin="3"><img  width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(1).jpg" alt="jaiswaladi246" />
 <img width="400" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemoapp%20(2).jpg" />
 
 </p>
