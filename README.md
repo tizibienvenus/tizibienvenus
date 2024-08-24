@@ -10,7 +10,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tizibienvenus&" alt="jaiswaladi246" /></p>
 
 ![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
- --->
+
 # 👨‍💻 PORJETS SUR LEQUELS J'AI TRAVAILLE
 
 ## [FREEMOPAY](https://www.freemopay.com/)
@@ -43,7 +43,7 @@ FreemoPay est un moyen pratique et sécurisé d'acheter du crédit de communicat
 </p>
 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemocode.png">
-
+ --->
 ### Quelques images de l'UI/UX avec Adobe XD
 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/tizibienvenus/blob/main/freemo%201.png">
