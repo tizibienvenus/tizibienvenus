@@ -1,8 +1,11 @@
 # Salut 👋 je suis [TIZI BIENVENUS](https://www.linkedin.com/in/bienvenus-tizi-806637241/)
 
-## [Developpeur mobile et Web](https://github.com/tizibienvenus), [Designer UI/UX](https://github.com/tizibienvenus), [Administrateur System](https://github.com/tizibienvenus), [Freelancer](https://github.com/tizibienvenus).
+## [Developpeur mobile et Web](https://github.com/tizibienvenus), [Designer UI/UX](https://github.com/tizibienvenus), [Administrateur System](https://github.com/tizibienvenus)
 
 <!--- ## 
+
+[Freelancer](https://github.com/tizibienvenus).
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tizibienvenus&show_icons=true&locale=en&layout=compact" alt="jaiswaladi246" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tizibienvenus&show_icons=true&locale=en" alt="jaiswaladi246" /></p>
