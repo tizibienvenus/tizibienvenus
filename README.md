@@ -77,44 +77,8 @@ OALET est une application de portefeuille financier qui permet aux utilisateurs 
 <img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/oalet2.png">
 
 
-### Home Screen
 
-<img width="861" alt="OALET" src="https://github.com/tizibienvenus/oalet/blob/main/oalet1.png">
-
-
--  &ensp;<b> ToutouStore</b>
-    -  &ensp;J'y travaille encore sur le projet.
-
-<h2>Design UI/UX:</h2>
-
--  &ensp;Fodali ❤️
-<p align="center">
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/fond.png" alt="Image" width="861"/>
-</p>
-
-<p align="center">
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/fodali.png" alt="Image" width="861"/>
-</p>
-
--  &ensp;Dashboard
-<p align="center">
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/dashboard.png" alt="Image" width="861"/>
-</p>
-
-<p align="center">
-    <img src="https://github.com/tizibienvenus/tizibienvenus/blob/main/dashboard1.png" alt="Image" width="861"/>
-</p>
-
-
-<!-->
-### Connect With Me
-
-[<img align="left" alt="Johannes Milke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />][website]
-[<img align="left" alt="Johannes Milke | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />][youtube]
-[<img align="left" alt="Johannes Milke | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />][twitter]
-[<img align="left" alt="Johannes Milke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />][linkedin]
-
-<!--[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
+[<img align="left" alt="Johannes Milke | Instagram" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Finstagram.png?alt=media" />][instagram]
 [<img align="left" alt="Johannes Milke | Facebook" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ffacebook.png?alt=media" />][facebook]
 [<img align="left" alt="Johannes Milke | Medium" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fmedium.png?alt=media" />][medium]
 
@@ -137,13 +101,14 @@ OALET est une application de portefeuille financier qui permet aux utilisateurs 
 <!>
 ### 📺 &ensp;Latest YouTube Videos
 
-<!-- YOUTUBE:START 
+YOUTUBE:START 
 - [Programmers in Movies 🍿 VS Real Life 😎](https://www.youtube.com/watch?v=hiEZoYErcuk)
 - [FASTEST Way to Learn Flutter and ACTUALLY Get a Job](https://www.youtube.com/watch?v=QPSYj2617UI)
 - [The best Flutter community 🔥🥳](https://www.youtube.com/watch?v=fA25AfAZLRg)
 - [Flutter Complete E-Commerce App | Flutter UI](https://www.youtube.com/watch?v=a1K0ZYQYFaY)
 - [Stupid mistakes programmers do 🤦‍♂️👨‍💻](https://www.youtube.com/watch?v=vifTxXYN8Eg)
-<!-- YOUTUBE:END -
+
+YOUTUBE:END -
 
 ➡️ &ensp;[More Videos...](https://youtube.com/JohannesMilke/videos)
 
@@ -151,13 +116,11 @@ OALET est une application de portefeuille financier qui permet aux utilisateurs 
 
 ### 📚 &ensp;Latest Medium Articles
 
-<!-- BLOG-POST-LIST:START -
+ BLOG-POST-LIST:START -
 - [Chip widget: Material Design with Flutter](https://medium.com/flutter-community/chip-widget-material-design-with-flutter-4a834553c9ab?source=rss-1d0dd7b62afc------2)
 END 
 
 ➡️ &ensp;[More Articles...](https://medium.com/@JohannesMilke)
-
--->
 
 [website]: https://www.freemopay.com/
 [playstore]: https://play.google.com/store/apps/details?id=com.freemopay.freemoapp&pli=1
